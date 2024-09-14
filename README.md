@@ -1,10 +1,13 @@
 ## here i try to create a tic-tok-toe application using react
 npm  and npx should be installed 
+<br>
+to initiate react app 
+<br>
 using the command
 <br>
 npx create-react-app {app-name}
 <br>
-creates a folder 
+ which creates a folder with folder name {app-name}
 <br>
 by making changes in App.js file you can build the app
 <br>
