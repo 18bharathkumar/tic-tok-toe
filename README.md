@@ -40,6 +40,8 @@ git push -u origin main
 <br>
 then run the command
 <br>
+npm run deploy 
+<br>
 npm run deploy
 <br>
 if you not added the deploy script in scripts run 
